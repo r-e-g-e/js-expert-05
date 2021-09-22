@@ -1,0 +1,6 @@
+[submodule "js-expert-frontend"]
+	path = js-expert-frontend
+	url = https://github.com/RegeTag/js-expert-frontend
+[submodule "js-expert-backend"]
+	path = js-expert-backend
+	url = https://github.com/RegeTag/js-expert-backend
